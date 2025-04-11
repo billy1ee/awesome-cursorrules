@@ -1,0 +1,6 @@
+# Fastify Best Practices
+Use schema validation for routes and plugins
+Implement proper lifecycle hooks (onRequest, preHandler)
+Organize routes by domain and use proper plugin architecture
+Leverage reply.send() for responses and fastify.setErrorHandler() for errors
+Use fastify-cli for development and follow the Fastify ecosystem patterns
