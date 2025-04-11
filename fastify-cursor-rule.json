@@ -1,0 +1,5 @@
+{
+  "pattern": "fastify\\.(get|post|put|delete)\\(['\"](.+?)['\"]",
+  "message": "Fastify route detected. Consider adding schema validation.",
+  "severity": "info"
+}
