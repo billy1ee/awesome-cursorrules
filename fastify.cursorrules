@@ -1,0 +1,5 @@
+// Fastify cursor rules
+Use route structure with /<resource>/<action> pattern
+Validate requests using JSON Schema in route definitions
+Register plugins in a logical order with fastify.register()
+Handle errors consistently with fastify.setErrorHandler()
