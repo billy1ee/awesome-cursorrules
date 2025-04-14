@@ -1,0 +1,12 @@
+---
+description: Fastify best practices for Node.js server development
+globs: **/*.js, **/*.ts, src/**/*.ts
+---
+
+# Fastify Best Practices
+
+- Use schema validation for request/response
+- Implement proper plugin architecture
+- Use async/await with proper error handling
+- Leverage built-in performance optimizations
+- Structure routes by domain
