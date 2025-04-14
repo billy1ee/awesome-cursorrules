@@ -1,0 +1,5 @@
+---
+description: Fastify best practices for high-performance Node.js applications
+globs: **/*fastify*.js, **/*.js, **/*.ts
+---
+# Fastify - Use proper plugin system, implement schema validation, leverage reply decorators, optimize route handlers, maintain request lifecycle hooks
