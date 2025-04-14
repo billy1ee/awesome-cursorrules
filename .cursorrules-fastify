@@ -1,0 +1,5 @@
+Use async/await for handlers
+Leverage schema validation for performance
+Build modular applications with plugins
+Prefer reply.send() over return statements
+Use .inject() for route testing
