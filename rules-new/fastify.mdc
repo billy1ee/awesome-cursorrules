@@ -1,0 +1,6 @@
+# Fastify Rules
+Always use schema validation for request/response objects in Fastify routes
+Utilize the plugin architecture pattern for code organization and modularity
+Follow async/await patterns for all route handlers and prefer promises over callbacks
+Optimize performance with proper JSON serialization and request validation
+Leverage TypeScript interfaces for enhanced type safety in Fastify applications
