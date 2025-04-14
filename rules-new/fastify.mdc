@@ -1,0 +1,12 @@
+---
+description: Fastify best practices for Node.js web applications
+globs: **/*.js, **/*.ts, src/**/*.js, src/**/*.ts
+---
+
+# Fastify Best Practices
+
+- Use schema validation for routes to improve performance and security
+- Implement proper error handling with custom error handlers
+- Utilize Fastify's plugin system for modular code organization
+- Configure appropriate logging with pino for production environments
+- Use reply decorators for consistent response formatting
