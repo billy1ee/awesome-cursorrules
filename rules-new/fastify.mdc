@@ -1,0 +1,5 @@
+---
+description: Fastify best practices for efficient Node.js web applications
+globs: **/*.js, **/*.ts, src/**/*.js, src/**/*.ts
+---
+# Fastify: Always use schema validation for routes to leverage built-in validation and serialization
