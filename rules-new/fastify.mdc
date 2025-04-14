@@ -4,4 +4,3 @@ globs: **/*.js, **/*.ts, src/**/*.ts
 ---
 # Fastify Best Practices
 - Use schema validation, leverage plugins architecture, and follow async patterns for optimal performance
----
