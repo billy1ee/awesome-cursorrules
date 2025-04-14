@@ -1,0 +1,9 @@
+---
+description: Fastify best practices for Node.js web applications
+globs: **/*.js, **/*.ts
+---
+
+# Fastify Best Practices
+- Use async/await with route handlers
+- Structure plugins for code organization
+- Implement proper schema validation
