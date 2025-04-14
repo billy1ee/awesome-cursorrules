@@ -1,0 +1,5 @@
+---
+description: Fastify best practices for high-performance Node.js applications
+globs: **/*.js, **/*.ts, src/**/*.ts
+---
+# Fastify Best Practices
