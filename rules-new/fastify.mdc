@@ -1,0 +1,5 @@
+---
+description: Fastify best practices for high-performance Node.js APIs
+globs: **/*.js, **/*.ts
+---
+# Fastify: Use schemas for validation • Prefer plugins over middleware • Use reply methods not response objects • Leverage lifecycle hooks
